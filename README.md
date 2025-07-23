@@ -49,7 +49,7 @@ I am a passionate and detail-oriented Software Engineer based in Yerevan, Armeni
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/><br/>Linux
       </td>
       <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gnu/gnu-original.svg" width="40" height="40" alt="Makefile"/><br/>Makefile
+        <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/makefile.svg" width="40" height="40" alt="Makefile"/><br/>Makefile
       </td>
       <td></td>
     </tr>
