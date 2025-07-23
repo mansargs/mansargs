@@ -5,7 +5,7 @@
 ---
 
 ## Technical Background
-Manvel Sargsyan is a passionate and detail-oriented Software Engineer based in Yerevan, Armenia. With a strong foundation in system-level programming, algorithms, and data structures, Manvel has hands-on experience in both academic and real-world environments. He is committed to building robust, efficient, and maintainable software solutions, and enjoys collaborating with others to solve complex technical challenges.
+I am a passionate and detail-oriented Software Engineer based in Yerevan, Armenia. With a strong foundation in system-level programming, algorithms, and data structures, I have hands-on experience in both academic and real-world environments. I am committed to building robust, efficient, and maintainable software solutions, and enjoy collaborating with others to solve complex technical challenges.
 
 ---
 
@@ -14,44 +14,44 @@ Manvel Sargsyan is a passionate and detail-oriented Software Engineer based in Y
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="100">
+      <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/><br/>C
       </td>
-      <td align="center" width="100">
+      <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br/>C++
       </td>
-      <td align="center" width="100">
+      <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br/>MySQL
       </td>
-      <td align="center" width="100">
+      <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/><br/>MongoDB
       </td>
-      <td align="center" width="100">
+    </tr>
+    <tr>
+      <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/><br/>Bash/Zsh
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
+      <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/>Git & GitHub
       </td>
-      <td align="center" width="100">
+      <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br/>HTML5
       </td>
-      <td align="center" width="100">
+      <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br/>CSS3
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>JavaScript
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/><br/>Linux
       </td>
     </tr>
     <tr>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gnu/gnu-original.svg" width="40" height="40" alt="GNU"/><br/>GNU Makefiles
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>JavaScript
       </td>
-      <td></td><td></td><td></td><td></td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/><br/>Linux
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gnu/gnu-original.svg" width="40" height="40" alt="Makefile"/><br/>Makefile
+      </td>
+      <td></td>
     </tr>
   </table>
 </div>
