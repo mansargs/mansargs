@@ -12,52 +12,48 @@ Manvel Sargsyan is a passionate and detail-oriented Software Engineer based in Y
 ## Tech Stack
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 32px;">
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-      <span>C</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-      <span>C++</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-      <span>MySQL</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-      <span>MongoDB</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
-      <span>Bash/Zsh</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-      <span>Git & GitHub</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-      <span>HTML5</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-      <span>CSS3</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-      <span>JavaScript</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-      <span>Linux</span>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center; margin: 12px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gnu/gnu-original.svg" width="40" height="40" alt="GNU"/>
-      <span>GNU Makefiles</span>
-    </div>
-  </div>
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/><br/>C
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/><br/>C++
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br/>MySQL
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/><br/>MongoDB
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/><br/>Bash/Zsh
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br/>Git & GitHub
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/><br/>HTML5
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/><br/>CSS3
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/><br/>JavaScript
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/><br/>Linux
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gnu/gnu-original.svg" width="40" height="40" alt="GNU"/><br/>GNU Makefiles
+      </td>
+      <td></td><td></td><td></td><td></td>
+    </tr>
+  </table>
 </div>
 
 ---
