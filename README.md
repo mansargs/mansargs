@@ -23,9 +23,6 @@ I am a passionate and detail-oriented Software Engineer based in Yerevan, Armeni
       <td align="center" width="120">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/><br/>MySQL
       </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/><br/>MongoDB
-      </td>
     </tr>
     <tr>
       <td align="center" width="120">
