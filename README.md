@@ -93,19 +93,6 @@ I am a passionate and detail-oriented Software Engineer based in Yerevan, Armeni
 
 ---
 
-## Get In Touch
-
-<p align="center">
-  <a href="https://linkedin.com/in/manvel-sargsyan-24630b332" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sargsyanmanvel97@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="40" alt="Gmail" style="background:white; border-radius:8px; padding:2px;"/>
-  </a>
-</p>
-
----
-
 ## Soft Skills
 - Problem Solving
 - Team Collaboration
