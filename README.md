@@ -79,6 +79,14 @@ I am a passionate and detail-oriented Software Engineer based in Yerevan, Armeni
 ## Featured Stats
 
 <p align="center">
+  <!-- github-readme-stats appears to be unavailable (503 DEPLOYMENT_PAUSED).
+       Using shields.io badges as a temporary fallback. -->
+  <img src="https://img.shields.io/github/languages/top/mansargs?color=0077B5&style=for-the-badge" alt="Top language"/>
+  <img src="https://img.shields.io/github/languages/count/mansargs?color=0EA5A4&style=for-the-badge" alt="Languages count"/>
+</p>
+
+<!-- Original github-readme-stats images (commented out while service is down)
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansargs&layout=compact&hide=roff,perl,tex,glsl,cmake,html,batchfile,m4,zig,lua&card_width=800&theme=apprentice" alt="Most Used Languages"/>
 </p>
 
@@ -90,6 +98,7 @@ I am a passionate and detail-oriented Software Engineer based in Yerevan, Armeni
 </p>
 
 <sub>Powered by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></sub>
+-->
 
 ---
 
